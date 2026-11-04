@@ -4,9 +4,9 @@
 
 # Devon Alan Akins
 
-**Author · independent developer · builder of useful systems and imagined worlds**
+**Independent software researcher · open-source engineer · author**
 
-I make software for everyday life, experiment with human-centered tools, and write stories that build worlds. My work spans personal operations, creative technology, family games, engineering integrity, and financial-systems research. I favor open source, self-hostability, careful verification, and software people can understand and maintain.
+I study difficult engineering problems, build inspectable open-source systems, and document experiments with evidence and limitations. My work spans programming languages, software verification, accessible interfaces, creative technology, and original writing. I favor human-readable design, reproducible results, self-hostability, and technical criticism over marketing claims.
 
 [Personal website](https://devonakins.com) · [Anevum](https://anevum.com) · [Project registry](https://github.com/devonalanakins/anevum/blob/main/PROJECT_REGISTRY.md)
 
@@ -19,12 +19,13 @@ I make software for everyday life, experiment with human-centered tools, and wri
 | [DevonAkins.com](https://github.com/devonalanakins/devonakins.com) | Personal website and creative workbench | Website source and tests |
 | [Anevum](https://github.com/devonalanakins/anevum-web) | Family creative studio, original writing, and fictional worlds | Website source; creative direction evolving |
 | [Merit](https://github.com/devonalanakins/merit) | Evidence-led engineering integrity for human- and AI-written software | Source-only toolkit; the historical `aiei` CLI remains unchanged |
-| [Rhen — language research](https://devonakins.com/work/rhen-language/) | Human-first experimental language, typed contracts and cross-language compilation | Locally tested prototypes; not yet a dedicated public compiler repository |
+| [Rhen — language research](https://github.com/devonalanakins/rhen) | Human-readable language experiment; inspectable IR and bounded JS/Python translation | New dedicated repository; M0 prototype and tests in [draft PR #1](https://github.com/devonalanakins/rhen/pull/1), not merged/released |
 | [Squelch](https://github.com/devonalanakins/squelch) | Touch-native DJ performance and future audio workstation | Product direction and experimental prototypes in draft |
 | [DevonStation](https://github.com/devonalanakins/devon-station) | Personal operations and communications | Application recovery and development in draft |
 | [Brandle](https://github.com/devonalanakins/brandle) · [Brandicade](https://github.com/devonalanakins/brandicade) | Wordplay and a family arcade | Brandle source; Brandicade recovery in progress |
 | [IdeaFlow](https://github.com/devonalanakins/ideaflow) | Idea capture and meeting workflows | Source reconciliation in progress |
-| [RHEN — markets](https://github.com/devonalanakins/rhen) | Separate deterministic financial-systems research, not the Rhen compiler | Experimental source and tests; not a profitability claim |
+| [Vesper](https://github.com/devonalanakins/vesper) | Independently redesigned quantitative research and finance software | Greenfield source in draft PRs; no live execution claim |
+| [Vesper Legacy](https://github.com/devonalanakins/vesper-legacy) | Preserved former RHEN market-research history, not the language project | Historic code and open review branches; not a profitability or deployment claim |
 | [Transcosmic: Severance](https://github.com/devonalanakins/severance) | Worldbuilding and interactive fiction experiments | Parked prototypes |
 
 ## How I work
@@ -37,4 +38,4 @@ I’m an author and father, with a longstanding curiosity about mathematics, phy
 
 ---
 
-<sub>Explore the [full repository inventory](https://github.com/devonalanakins/anevum/blob/main/PROJECT_REGISTRY.md) for project boundaries and source status. Descriptions reflect the November 3, 2026 portfolio checkpoint and should be checked against each repository for changes.</sub>
+<sub>Explore the [full repository inventory](https://github.com/devonalanakins/anevum/blob/main/PROJECT_REGISTRY.md) for project boundaries and source status. Project names rechecked November 4, 2026; other descriptions reflect the most recent verified portfolio checkpoint and should be checked against each repository for changes.</sub>
