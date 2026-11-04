@@ -18,12 +18,12 @@ I make software for everyday life, experiment with human-centered tools, and wri
 | :--- | :--- | :--- |
 | [DevonAkins.com](https://github.com/devonalanakins/devonakins.com) | Personal website and creative workbench | Website source and tests |
 | [Anevum](https://github.com/devonalanakins/anevum-web) | Family creative studio, original writing, and fictional worlds | Website source; creative direction evolving |
-| [AIEI](https://github.com/devonalanakins/aiei) | Evidence-led review of AI-assisted software | Source-only engineering toolkit |
+| [Merit](https://github.com/devonalanakins/merit) | Evidence-led engineering integrity for human- and AI-written software | Source-only toolkit; the historical `aiei` CLI remains unchanged |\n| [Rhen — language research](https://devonakins.com/work/rhen-language/) | Human-first experimental language, typed contracts and cross-language compilation | Locally tested prototypes; not yet a dedicated public compiler repository |
 | [Squelch](https://github.com/devonalanakins/squelch) | Touch-native DJ performance and future audio workstation | Product direction and experimental prototypes in draft |
 | [DevonStation](https://github.com/devonalanakins/devon-station) | Personal operations and communications | Application recovery and development in draft |
 | [Brandle](https://github.com/devonalanakins/brandle) · [Brandicade](https://github.com/devonalanakins/brandicade) | Wordplay and a family arcade | Brandle source; Brandicade recovery in progress |
 | [IdeaFlow](https://github.com/devonalanakins/ideaflow) | Idea capture and meeting workflows | Source reconciliation in progress |
-| [RHEN](https://github.com/devonalanakins/rhen) | Independent deterministic financial-systems research | Experimental source and tests; not a profitability claim |
+| [RHEN — markets](https://github.com/devonalanakins/rhen) | Separate deterministic financial-systems research, not the Rhen compiler | Experimental source and tests; not a profitability claim |
 | [Transcosmic: Severance](https://github.com/devonalanakins/severance) | Worldbuilding and interactive fiction experiments | Parked prototypes |
 
 ## How I work
