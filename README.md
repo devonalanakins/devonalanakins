@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devonalanakins/anevum/main/.github/assets/readme-hero.svg" alt="Original portfolio illustration for Devon Alan Akins" width="100%" />
+  <img src=".github/assets/profile-laboratory.svg" alt="Devon Alan Akins: an original cinematic research laboratory illustration for independent software, artificial intelligence systems, and scientific computing" width="100%" />
 </p>
 
 # Devon Alan Akins
@@ -9,6 +9,10 @@
 I design, build and study software at the intersection of **open-source infrastructure, human-centered interfaces, scientific computing and useful operations**. My approach is research-first: make the system understandable, test the claims, document the limitations and keep it maintainable and self-hostable where practical.
 
 [Website](https://devonakins.com) · [ANEVUM](https://anevum.com) · [Repositories](https://github.com/devonalanakins?tab=repositories)
+
+<p align="center">
+  <img src=".github/assets/profile-focus.svg" alt="Current focus: AI systems and infrastructure; scientific computing; operations and design. Illustrated conceptual themes, not live system metrics." width="100%" />
+</p>
 
 ## What I am working on
 
