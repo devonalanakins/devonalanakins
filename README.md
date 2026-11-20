@@ -1,40 +1,50 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devonalanakins/anevum/main/.github/assets/readme-hero.svg" alt="Original portfolio illustration for Devon Alan Akins" width="100%" />
+  <img src=".github/assets/profile-laboratory.svg" alt="Devon Alan Akins: an original cinematic research laboratory illustration for independent software, artificial intelligence systems, and scientific computing" width="100%" />
 </p>
 
 # Devon Alan Akins
 
-**Author · independent developer · builder of useful systems and imagined worlds**
+**Independent software developer · AI systems and infrastructure researcher · author**
 
-I make software for everyday life, experiment with human-centered tools, and write stories that build worlds. My work spans personal operations, creative technology, family games, engineering integrity, and financial-systems research. I favor open source, self-hostability, careful verification, and software people can understand and maintain.
+I design, build and study software at the intersection of **open-source infrastructure, human-centered interfaces, scientific computing and useful operations**. My approach is research-first: make the system understandable, test the claims, document the limitations and keep it maintainable and self-hostable where practical.
 
-[Personal website](https://devonakins.com) · [Anevum](https://anevum.com) · [Project registry](https://github.com/devonalanakins/anevum/blob/main/PROJECT_REGISTRY.md)
+[Website](https://devonakins.com) · [ANEVUM](https://anevum.com) · [Repositories](https://github.com/devonalanakins?tab=repositories)
 
----
+<p align="center">
+  <img src=".github/assets/profile-focus.svg" alt="Current focus: AI systems and infrastructure; scientific computing; operations and design. Illustrated conceptual themes, not live system metrics." width="100%" />
+</p>
 
-## Selected work
+## What I am working on
 
-| Project | Direction | Current source status |
-| :--- | :--- | :--- |
-| [DevonAkins.com](https://github.com/devonalanakins/devonakins.com) | Personal website and creative workbench | Website source and tests |
-| [Anevum](https://github.com/devonalanakins/anevum-web) | Family creative studio, original writing, and fictional worlds | Website source; creative direction evolving |
-| [Merit](https://github.com/devonalanakins/merit) | Evidence-led engineering integrity for human- and AI-written software | Source-only toolkit; the historical `aiei` CLI remains unchanged |
-| [Rhen — language research](https://devonakins.com/work/rhen-language/) | Human-first experimental language, typed contracts and cross-language compilation | Locally tested prototypes; not yet a dedicated public compiler repository |
-| [Squelch](https://github.com/devonalanakins/squelch) | Touch-native DJ performance and future audio workstation | Product direction and experimental prototypes in draft |
-| [DevonStation](https://github.com/devonalanakins/devon-station) | Personal operations and communications | Application recovery and development in draft |
-| [Brandle](https://github.com/devonalanakins/brandle) · [Brandicade](https://github.com/devonalanakins/brandicade) | Wordplay and a family arcade | Brandle source; Brandicade recovery in progress |
-| [IdeaFlow](https://github.com/devonalanakins/ideaflow) | Idea capture and meeting workflows | Source reconciliation in progress |
-| [RHEN — markets](https://github.com/devonalanakins/rhen) | Separate deterministic financial-systems research, not the Rhen compiler | Experimental source and tests; not a profitability claim |
-| [Transcosmic: Severance](https://github.com/devonalanakins/severance) | Worldbuilding and interactive fiction experiments | Parked prototypes |
+- **Nona Neuropsychology:** Nonclinical operations, organizational systems and digital experience. Clinical decisions and patient information belong in separately authorized professional systems, not public GitHub repositories.
+- **ANEVUM Open Institute:** Developing an independent, non-accredited learning and research experience with interactive lessons and browser-based experiments. [The current implementation is a draft protected preview](https://github.com/devonalanakins/anevum-web/pull/816), not a publicly launched institution or credentialing program. Broader community initiatives remain proposed work.
+- **AI systems and compute:** Learning and experimenting with model development, inference, GPU computing, distributed systems and reproducible research. These are technical directions—not claims of a deployed AI cluster or a released foundation model.
+- **DevonAkins.com:** Building my public development and research presence, with explicit separation between observed activity, historical snapshots and work in progress.
 
-## How I work
+## Selected repositories
 
-I enjoy connecting interface design, software architecture, testing, deployment, and documentation. My repositories include work in **TypeScript and JavaScript**, **Python**, **Rust prototypes**, and **Godot**, alongside web interfaces, Cloudflare Workers, and automated verification. Projects vary in maturity: a repository or prototype is not itself evidence of a released product.
+| Project | Purpose | What is actually available |
+| --- | --- | --- |
+| [ANEVUM Web](https://github.com/devonalanakins/anevum-web) | Open learning, research and creative web experiences | Existing web source; [Open Institute PR #816](https://github.com/devonalanakins/anevum-web/pull/816) is a protected, unmerged preview |
+| [DevonAkins.com](https://github.com/devonalanakins/devonakins.com) | Personal portfolio and interactive research website | Public source and ongoing reviewed changes |
+| [DevonStation](https://github.com/devonalanakins/devon-station) | Personal operating environment and workflow experiments | Source, prototypes and ongoing development |
+| [Knowledge](https://github.com/devonalanakins/knowledge) | Private-first knowledge and file-workspace engineering | Open-source code and controlled development; do not infer production or private-data readiness |
+| [Merit](https://github.com/devonalanakins/merit) | Evidence-based review of software and AI-authored changes | Engineering toolkit source; not an independent certification service |
+| [Rhen](https://github.com/devonalanakins/rhen) | Experimental programming language and source translation | [M0 implementation is in a draft PR](https://github.com/devonalanakins/rhen/pull/1); no released compiler |
+| [Squelch](https://github.com/devonalanakins/squelch) | Touch-first music and audio software | Experimental design and development |
+| [Vesper Legacy](https://github.com/devonalanakins/vesper-legacy) | Preserved quantitative research history | Historical research source; no live-trading or profitability claim |
+| [Brandle](https://github.com/devonalanakins/brandle) | Independent browser word game | Public game source |
 
-## Beyond the code
+Other repositories preserve original writing, interactive fiction, family games and exploratory work. **A prototype, passing test, pull request or public repository is not proof of a production release.**
 
-I’m an author and father, with a longstanding curiosity about mathematics, physics, neuroscience, and the ways people learn. Anevum is the home for my original stories and the Transcosmic universe; the work will keep evolving as the writing develops.
+## Methods and interests
 
----
+**Engineering:** TypeScript/JavaScript, Python, experimental Rust, Cloudflare Workers, web systems, test automation, accessible interaction design and application security.
 
-<sub>Explore the [full repository inventory](https://github.com/devonalanakins/anevum/blob/main/PROJECT_REGISTRY.md) for project boundaries and source status. Descriptions reflect the November 3, 2026 portfolio checkpoint and should be checked against each repository for changes.</sub>
+**Research:** AI infrastructure, GPU programming, model training and inference, distributed computing, programming languages, mathematics, physics, neuroscience and scientific simulation.
+
+**Creative work:** Writing, original worlds, interactive media and public-interest education.
+
+I favor independently verified changes, precise technical documentation and small complete releases over inflated capability claims.
+
+<sub>Public profile refreshed November 19, 2026. For implemented features, test evidence and deployment status, consult the relevant repository, PR and service separately. ANEVUM, Nona Neuropsychology and my personal projects retain distinct ownership and privacy boundaries.</sub>
