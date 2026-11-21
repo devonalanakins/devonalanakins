@@ -49,4 +49,4 @@ Other repositories preserve original writing, interactive fiction, family games 
 
 I favor independently verified changes, precise technical documentation and small complete releases over inflated capability claims.
 
-<sub>Profile draft updated November 21, 2026. For implemented features, test evidence and deployment status, consult the relevant repository, PR and service separately. ANEVUM, Nona Neuropsychology and my personal projects retain distinct ownership and privacy boundaries.</sub>
+<sub>Profile text prepared November 21, 2026. For implemented features, test evidence and deployment status, consult the relevant repository, PR and service separately. ANEVUM, Nona Neuropsychology and my personal projects retain distinct ownership and privacy boundaries.</sub>
