@@ -4,9 +4,9 @@
 
 # Devon Alan Akins
 
-**Independent software developer · AI systems and infrastructure researcher · author**
+**Independent software developer · Apple platforms, AI systems and infrastructure · author**
 
-I design, build and study software at the intersection of **open-source infrastructure, human-centered interfaces, scientific computing and useful operations**. My approach is research-first: make the system understandable, test the claims, document the limitations and keep it maintainable and self-hostable where practical.
+I build software for the web and Apple platforms, explore scientific computing and AI infrastructure, and write. My work connects **open-source infrastructure, human-centered interfaces, scientific computing and useful operations**. My approach is research-first: make the system understandable, test the claims, document the limitations and keep it maintainable and self-hostable where practical.
 
 [Website](https://devonakins.com) · [ANEVUM](https://anevum.com) · [Repositories](https://github.com/devonalanakins?tab=repositories)
 
@@ -15,6 +15,8 @@ I design, build and study software at the intersection of **open-source infrastr
 </p>
 
 ## What I am working on
+
+- **Apple platforms:** Native interfaces and personal software. The [IREN iOS client](https://github.com/devonalanakins/anevum-web/tree/main/native/iren-ios) is archived source, not a current release; its retired authentication is not suitable for current production.
 
 - **Nona Neuropsychology:** Nonclinical operations, organizational systems and digital experience. Clinical decisions and patient information belong in separately authorized professional systems, not public GitHub repositories.
 - **ANEVUM Open Institute:** Developing an independent, non-accredited learning and research experience with interactive lessons and browser-based experiments. [The current implementation is a draft protected preview](https://github.com/devonalanakins/anevum-web/pull/816), not a publicly launched institution or credentialing program. Broader community initiatives remain proposed work.
@@ -39,7 +41,7 @@ Other repositories preserve original writing, interactive fiction, family games 
 
 ## Methods and interests
 
-**Engineering:** TypeScript/JavaScript, Python, experimental Rust, Cloudflare Workers, web systems, test automation, accessible interaction design and application security.
+**Engineering:** Swift and SwiftUI source work, TypeScript/JavaScript, Python, experimental Rust, Cloudflare Workers, web systems, test automation, accessible interaction design and application security.
 
 **Research:** AI infrastructure, GPU programming, model training and inference, distributed computing, programming languages, mathematics, physics, neuroscience and scientific simulation.
 
@@ -47,4 +49,4 @@ Other repositories preserve original writing, interactive fiction, family games 
 
 I favor independently verified changes, precise technical documentation and small complete releases over inflated capability claims.
 
-<sub>Public profile refreshed November 19, 2026. For implemented features, test evidence and deployment status, consult the relevant repository, PR and service separately. ANEVUM, Nona Neuropsychology and my personal projects retain distinct ownership and privacy boundaries.</sub>
+<sub>Profile text prepared November 21, 2026. For implemented features, test evidence and deployment status, consult the relevant repository, PR and service separately. ANEVUM, Nona Neuropsychology and my personal projects retain distinct ownership and privacy boundaries.</sub>
