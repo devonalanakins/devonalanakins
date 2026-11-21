@@ -43,6 +43,9 @@ Other repositories preserve original writing, interactive fiction, family games 
 
 ## Developer stack and collaborations
 
+**[Complete developer and creator stack](STACK.md)** — dated inventory with verified vs. planned platform capabilities.
+
+
 My current workflow combines four complementary developer ecosystems. Those are **tools and platforms**, not sponsors or certifications.
 
 | Platform | How it fits my work | Status |
