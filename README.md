@@ -10,6 +10,8 @@ I build software for the web and Apple platforms, explore scientific computing a
 
 [Website](https://devonakins.com) · [ANEVUM](https://anevum.com) · [Repositories](https://github.com/devonalanakins?tab=repositories)
 
+**Public channels:** [Threads](https://www.threads.com/@devonalanakins) · [Instagram](https://www.instagram.com/devonalanakins/) · [Facebook](https://www.facebook.com/devonalanakins)
+
 <p align="center">
   <img src=".github/assets/profile-focus.svg" alt="Current focus: AI systems and infrastructure; scientific computing; operations and design. Illustrated conceptual themes, not live system metrics." width="100%" />
 </p>
