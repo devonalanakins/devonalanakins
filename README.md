@@ -39,6 +39,21 @@ I build software for the web and Apple platforms, explore scientific computing a
 
 Other repositories preserve original writing, interactive fiction, family games and exploratory work. **A prototype, passing test, pull request or public repository is not proof of a production release.**
 
+## Developer stack and collaborations
+
+My current workflow combines four complementary developer ecosystems. Those are **tools and platforms**, not sponsors or certifications.
+
+| Platform | How it fits my work | Status |
+| --- | --- | --- |
+| Apple / SwiftUI | Exploring native iPhone interfaces and privacy-conscious device experiences | Development direction; archived [IREN iOS source](https://github.com/devonalanakins/anevum-web/tree/main/native/iren-ios) is not a released app; paid Apple Developer Program enrollment **planned** |
+| OpenAI / Codex | AI-assisted implementation, explanation, technical review and experiments with appropriate verification | Development tools, not an endorsement or OpenAI partnership |
+| GitHub | Version control, open source, pull requests, code review and automated checks | Active public development and maintained source history |
+| Cloudflare | First-party website infrastructure and service-level controls | Existing web runtime; additional products are assessed project by project |
+
+I welcome conversations about original software, accessibility, developer education and properly disclosed collaborations. Browse [the work](https://devonakins.com/work/) and [source](https://github.com/devonalanakins?tab=repositories), or contact [hello@devonakins.com](mailto:hello@devonakins.com?subject=Independent%20developer%20collaboration).
+
+Program memberships, credentials, credits, sponsorships and distribution status will be added only after they are verified. No App Store listing is implied by archived native source.
+
 ## Methods and interests
 
 **Engineering:** Swift and SwiftUI source work, TypeScript/JavaScript, Python, experimental Rust, Cloudflare Workers, web systems, test automation, accessible interaction design and application security.
