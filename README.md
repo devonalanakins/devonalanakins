@@ -4,7 +4,7 @@
 
 # Devon Alan Akins
 
-**Independent software developer · Apple platforms and web · author**
+**Independent software developer · Apple platforms, AI systems and infrastructure · author**
 
 I build software for the web and Apple platforms, explore scientific computing and AI infrastructure, and write. My work connects **open-source infrastructure, human-centered interfaces, scientific computing and useful operations**. My approach is research-first: make the system understandable, test the claims, document the limitations and keep it maintainable and self-hostable where practical.
 
